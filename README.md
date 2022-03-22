@@ -13,4 +13,4 @@ A list of eBPF tools that I've come across during my exploration + additional le
 - [Fonio](https://ingraind.org/): foniod is an security monitoring agent born for the cloud.
 
 ### Podcasts
-- [The InfoQ Podcast - Liz Rice on Programmig the Linux Kernel with eBPF, Cilium] (https://open.spotify.com/episode/4RXE4dus1hlk085bWBU8ba?si=xFCD6pc7SGGK5UrNdxv4jg):
+- [The InfoQ Podcast - Liz Rice on Programmig the Linux Kernel with eBPF, Cilium](https://open.spotify.com/episode/4RXE4dus1hlk085bWBU8ba?si=xFCD6pc7SGGK5UrNdxv4jg)
